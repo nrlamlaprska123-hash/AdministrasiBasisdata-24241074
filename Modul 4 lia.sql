@@ -1,4 +1,4 @@
--- Nama : nurul amalia peasiska
+-- Nama : nurul amalia prasiska
 -- NIM	: 24241074
 -- Kelas : B
 -- Modul : 4
